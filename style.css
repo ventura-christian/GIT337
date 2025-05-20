@@ -1,0 +1,15 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+.title {
+  color: aqua;
+}
+
+.para {
+  color: orange;
+}
+
+.subtext {
+  color: greenyellow;
+}
