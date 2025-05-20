@@ -1,9 +1,17 @@
 * {
   font-family: "Courier New", Courier, monospace;
+  border: 1px solid white;
 }
 
-.title {
+.h1 {
   color: aqua;
+  display: flex;
+}
+
+.container {
+  text-align: center;
+  align-items: ;
+  align-content: space-evenly;
 }
 
 .para {
