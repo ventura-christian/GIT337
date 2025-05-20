@@ -1,19 +1,13 @@
 * {
   font-family: "Courier New", Courier, monospace;
-  border: 1px solid white;
+  /* border: 1px solid white; */
 }
 
-.h1 {
+h1 {
   color: aqua;
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
-}
-
-.container {
-  flex-direction: row;
-  text-align: center;
-  align-items: center;
 }
 
 .para {
